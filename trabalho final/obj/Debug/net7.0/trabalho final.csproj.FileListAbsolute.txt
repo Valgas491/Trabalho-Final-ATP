@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\vscode\trabalho final\bin\Debug\net7.0\trabalho final.exe
+C:\Users\Pichau\Desktop\vscode\trabalho final\bin\Debug\net7.0\trabalho final.deps.json
+C:\Users\Pichau\Desktop\vscode\trabalho final\bin\Debug\net7.0\trabalho final.runtimeconfig.json
+C:\Users\Pichau\Desktop\vscode\trabalho final\bin\Debug\net7.0\trabalho final.dll
+C:\Users\Pichau\Desktop\vscode\trabalho final\bin\Debug\net7.0\trabalho final.pdb
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.dll
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\refint\trabalho final.dll
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.pdb
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\trabalho final.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\vscode\trabalho final\obj\Debug\net7.0\ref\trabalho final.dll

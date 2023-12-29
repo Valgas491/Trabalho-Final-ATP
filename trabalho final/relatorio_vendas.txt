@@ -1,0 +1,4 @@
+Banana: 500 unidades vendidas.
+Maça: 500 unidades vendidas.
+Pera: 0 unidades vendidas.
+Uva: 0 unidades vendidas.
